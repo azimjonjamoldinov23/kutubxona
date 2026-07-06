@@ -1,2 +1,2 @@
-# kutubxona
+
 django_kutubxona
